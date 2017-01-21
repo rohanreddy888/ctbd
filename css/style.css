@@ -3,7 +3,7 @@ h1, h2, h3 {margin: 0;}
 ul, ol {margin: 0;}
 p {margin: 0;}
 html, body{
- font-family: 'Karla', sans-serif;
+ font-family: 'PT Sans', sans-serif;
    font-size: 100%;
    background:#fff;
 }
@@ -42,7 +42,7 @@ a:hover {
 }
 .banner1 {
     background: url(../images/yokid.jpg)no-repeat center;
-    min-height:260px;
+    min-height:350px;
     background-size: cover;
     position: relative;
 }
@@ -486,7 +486,7 @@ span.menu {
 /*--footer start here--*/
 .footer {
     padding:4.5em 0em;
-    background: #A5A5A5;
+    background: #008fe2;
 }
 .ftr-grid h3 {
     font-size: 2em;
