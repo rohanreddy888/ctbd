@@ -6,6 +6,7 @@ html, body{
  font-family: 'PT Sans', sans-serif;
    font-size: 100%;
    background:#fff;
+   overflow-x: hidden;
 }
 a {
   text-decoration: none;
@@ -1660,6 +1661,9 @@ h1.grid2 {
 }
 .top-nav {
     left: 6%;
+}
+.img-small{
+  width: 100px;
 }
 }
 @media (max-width:640px){
